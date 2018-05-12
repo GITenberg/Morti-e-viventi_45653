@@ -1,0 +1,27 @@
+_repo: Morti-e-viventi_45653
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45653-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Panzacchi, Enrico
+    birthdate: 1840
+    deathdate: 1904
+    gutenberg_agent_id: '42056'
+    url: http://www.gutenberg.org/2009/agents/42056
+description: ''
+gutenberg_bookshelf: IT Letteratura
+gutenberg_issued: '2014-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45653'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian literature -- History and criticism'
+title: Morti e viventi
+url: http://www.gutenberg.org/ebooks/45653
